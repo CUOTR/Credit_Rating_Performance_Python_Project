@@ -1,6 +1,6 @@
 # PYTHON: CREDIT RATING PERFORMANCE
 
-# OVERVIEW
+## OVERVIEW
 
 This project analyzes a  consumer loan dataset to evaluate the performance of the internal credit rating system (`sub_grade`).
 
