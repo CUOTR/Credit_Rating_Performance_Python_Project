@@ -2,7 +2,7 @@
 
 # OVERVIEW
 
-This project analyzes a  consumer loan dataset from KAGGLE  to evaluate the performance of the internal credit rating system (`sub_grade`).
+This project analyzes a  consumer loan dataset to evaluate the performance of the internal credit rating system (`sub_grade`).
 
 The main objective is to assess whether the rating grades (from A1 to G5) effectively discriminate credit risk by examining actual
 
