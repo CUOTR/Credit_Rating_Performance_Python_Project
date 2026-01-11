@@ -1,7 +1,9 @@
 # CREDIT RATING PERFORMANCE - PYTHON
 
 ## BUSINESS PROBLEM
-This project analyzes a consumer loan dataset to evaluate the performance of the internal credit rating system 'sub_grade'. The main objective is to assess whether the rating grades (from A1 to G5) effectively discriminate credit risk by examining actual default rate across different grades.
+To assess whether a loan is potentially risky or not, banks or financial institutions must evaluate many factors such as the financial health of the borrower, the loan amount, interest rates, ... Generally, banks usually classify loans into grades for easier monitoring.
+
+This project analyzes a consumer loan dataset to evaluate the performance of the internal credit rating system 'sub_grade'. The main objective is to assess whether the rating grades from A1 to G5 effectively discriminate credit risk by examining actual default rate across different grades.
 
 ## DATASET
 Description: CREDIT_RATING.CSV includes
